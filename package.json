@@ -1,0 +1,23 @@
+{
+  "name": "skillset-backend",
+  "version": "1.0.0",
+  "main": "db.service.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "authors": "Yuval Beit on",
+  "license": "ISC",
+  "author": "",
+  "homepage": "",
+  "description": ""
+}
